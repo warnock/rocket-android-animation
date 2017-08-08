@@ -38,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LaunchAndSpinAnimatorSetAnimatorActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LaunchAndSpinAnimatorSetAnimatorActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchAndSpinAnimatorSetAnimatorActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -48,6 +48,16 @@
                 <element signature="e#436#673#0" expanded="true" />
                 <element signature="e#672#673#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LaunchAndSpinViewPropertyAnimatorAnimationActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchAndSpinViewPropertyAnimatorAnimationActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1780,6 +1790,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchRocketValueAnimatorAnimationActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/ColorAnimationActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchAndSpinAnimatorSetAnimatorActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchAndSpinViewPropertyAnimatorAnimationActivity.java" />
       </list>
     </option>
   </component>
@@ -2527,6 +2538,14 @@
             <element signature="e#436#673#0" expanded="true" />
             <element signature="e#672#673#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/raywenderlich/rocketlaunch/animationactivities/LaunchAndSpinViewPropertyAnimatorAnimationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
