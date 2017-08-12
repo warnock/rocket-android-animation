@@ -3,75 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/home/megan/.android/build-cache/5352d3875819bad3eaeaa1f0be73442a726e9d92/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8ebaac1e3908c9181879116849404c2899065c5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/megan/.android/build-cache/502db89e489a2ab9a1cbd9f006c80e5363ec17e0/output/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_9d1c7bdacea5847a5c79c32f5bd8ffe4b812fbe1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/megan/.android/build-cache/85738c8c68a54c5a822de057bae2a8a6a88e3b78/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d3b7e141e8b8ffff6c9fa90bf3d4485185eb51f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cc110fb81a0a6a9b50b229df4381d767b607255e">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2997df2b83152a7480d607db314d42d7702d1a43/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/megan/.android/build-cache/502db89e489a2ab9a1cbd9f006c80e5363ec17e0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d5e8da6e96243aee6697dd7f5d44147a790875d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_82ec73429660ba885a68e42628b7a90923d572c4/classes.dex" />
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68709f143877ab04e96c55222b4755ea588840ee/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/megan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jar="/Users/meganwarnock/.android/build-cache/07215b50b5190f631b93b52e11b552cabbd6e0d2/output/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_1fc7373e60b9b05486fd739e50189938328fc997/classes.dex" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_ca0dec201825675aa7f946b222ac1bc6c54aba21/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/megan/.android/build-cache/8259d31c3c32ff4cdc909b6f4a2246f8b19cadd0/output/jars/classes.jar"
+        jar="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2110d7f45aa891582228af7da0d647c1b8cc81f">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c247e3d36dc4240df7abe35c1446a02fd5ac5fa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meganwarnock/.android/build-cache/67d7b22167109c47f87dfada8cd29875139f4e40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2faa3929c4bb33434c26c72339610cdfd05b0046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meganwarnock/.android/build-cache/32c75e093a38898c0c5895b9b0257ade23d2c699/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/home/megan/Desktop/Rocket-Launch-Starter_local/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17515373a73a8dc20c90f8bb9b755104fc542261/classes.dex" />
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_319edd17ce5ad53013e478c75eede6623dd31f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meganwarnock/.android/build-cache/07215b50b5190f631b93b52e11b552cabbd6e0d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b801091415735f37172b00476b24eed7db9e7402/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meganwarnock/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ee96e38f95d75042ca862ece3d234eaca02928f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/meganwarnock/.android/build-cache/7a96a6953d93068362eefd242682cad18b45d19e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/meganwarnock/Desktop/rocket-android-animation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_142995b0d2c1f9bac1fdec177cbfa44a70da420e/classes.dex" />
     </item>
 
 </items>

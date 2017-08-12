@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Rocket-Launch-Starter_local.iml" filepath="$PROJECT_DIR$/Rocket-Launch-Starter_local.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocket-android-animation.iml" filepath="$PROJECT_DIR$/rocket-android-animation.iml" />
     </modules>
   </component>
 </project>
